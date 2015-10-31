@@ -1,0 +1,28 @@
+Full name: Wu Jingyuan_
+SEAS login: _wujingyu_____________
+
+Which features did you implement? 
+  (list features, or write 'Entire assignment')
+  Entire assignment
+
+Did you complete any extra-credit tasks? If so, which ones?
+  (list extra-credit tasks)
+  Channel subscriptions
+Any special instructions for building and running your solution?
+  (include detailed instructions, or write 'None')
+  Server and Crawler can't process at the same time. 
+  When first add channel, it will not display any xpath.
+  Once running crawler, crawler will search for xml files that match with xpath, and then check the display channels, it will show the displaypage.
+   
+Did you personally write _all_ the code you are submitting
+(other than code from the course web page)?
+  [1] Yes
+  [ ] No
+
+Did you copy any code from the Internet, or from classmates?
+  [ ] Yes
+  [1] No
+
+Did you collaborate with anyone on this assignment?
+  [ ] Yes
+  [1] No

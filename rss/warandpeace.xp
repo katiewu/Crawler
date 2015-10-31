@@ -1,0 +1,1 @@
+/rss/channel/item/title[contains(text(),"war")];/rss/channel/item/description[contains(text(),"peace")];/rss/channel/item/title[contains(text(),"peace")];/rss/channel/item/description[contains(text(),"war")]
